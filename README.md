@@ -13,7 +13,7 @@ employee-health-data-cleaning-dashboard/
 ├── Uncleaned_Employee_Health_Data.xlsx     # Raw data with duplicates, typos, and inconsistencies
 │   Employee_Health_Data_Cleaned.xlsx       # Cleaned data with formulas, pivot tables, and derived columns
 │
-├── dashboard_screenshot.png                # chart-based summary of the dashboard 
+├── dashboard_screenshot.jpg                # chart-based summary of the dashboard 
 │
 └── README.md                               # Project documentation
 ```
